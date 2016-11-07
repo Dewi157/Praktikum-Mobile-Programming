@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_9f5cb74533c8020d377093c7dfc6acf94b633314\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_078fd94dd704590ad2be290c18db749819929692\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_9235db98cc0069fd73e00379d04355f81a17399d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_6dd8460472b983c72f7faed7530d67c83ed8ed2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_fb27b0bc60a56fcffe88b2cb70f8db61f08c3a16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_2fccab3a6998f7144aebec089477ecfc1b079d20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_7da0ed20312e3f084d1943575365e362ac87fabd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_027addfced722a489d8d7e4bc40434baba97016a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3c08f6e34ef074b7c2d2b80de5bd72df3e900bf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_084519df5f7c37794bde5d80866d0103980188f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_0057340492676778d3a8ef1d05f834236ead4017\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_c0e2051aae72a05285c01ba8b3ae8547d613abd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_bc44e015123d10016e41b04f681ffca77c211dca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_fdf86a987aa0ad6be55079528f808de791a5988c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4dccc681966508bbc461ffd2fce023ddcded374c">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_830d7557711ece8d669c53410346743d0ac4ffb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_eca35a01bb559fdddaed5892fecebb7e859f3f77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ce29fbbe0a219a1514dc8277e61acab43bfa6e7">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c764a5b7e3c731faf97de1fd5c7bdfbe468a1622\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_2a1bc0407f25b1780922ce5b7c6be51dfa4eb581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b8795097a75dd2d557bfeb2bf3f8c9b6a081c503\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sql_lite\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\Sql_lite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_6bd22d34c31d648f45de87a54910195f883e62ec\classes.dex" />
+    </item>
+
+</items>

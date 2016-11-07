@@ -1,0 +1,7 @@
+#Mon Nov 07 23:01:27 ICT 2016
+base.0=E\:\\Sql_lite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_830d7557711ece8d669c53410346743d0ac4ffb7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Sql_lite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c764a5b7e3c731faf97de1fd5c7bdfbe468a1622\\classes.dex
+base.1=E\:\\Sql_lite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c764a5b7e3c731faf97de1fd5c7bdfbe468a1622
+file.0=E\:\\Sql_lite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_830d7557711ece8d669c53410346743d0ac4ffb7\\classes.dex
